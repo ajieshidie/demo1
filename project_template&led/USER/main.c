@@ -9,8 +9,8 @@ int main(void)
 	uart_init(9600);	 //串口初始化为9600
     delay_init();	    	 //延时函数初始化
     LED_Init();
-     
-  while(1)
+    printf("wo jiao ajie");
+    while (1)
     {
        LED0=1;
        delay_ms(100);
