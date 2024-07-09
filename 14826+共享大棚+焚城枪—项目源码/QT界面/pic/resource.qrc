@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon_1/a-buguangdengxian_huaban1_huaban1.png</file>
+        <file>icon_1/a-buguangdengxian_huaban1_huaban12.png</file>
+        <file>icon_1/bulb1.png</file>
+        <file>icon_1/bulb12.png</file>
+        <file>icon_1/chuanglian.png</file>
+        <file>icon_1/chuanglian1.png</file>
+        <file>icon_1/co2.png</file>
+        <file>icon_1/fengshan.png</file>
+        <file>icon_1/fengshan1.png</file>
+        <file>icon_1/kongqishidu.png</file>
+        <file>icon_1/kongqiwendu.png</file>
+        <file>icon_1/shoudongmoshi.png</file>
+        <file>icon_1/shuibeng1.png</file>
+        <file>icon_1/shuibeng12.png</file>
+        <file>icon_1/turangdiandaoshuai.png</file>
+        <file>icon_1/turangpH.png</file>
+        <file>icon_1/turangshidu.png</file>
+        <file>icon_1/turangwendu.png</file>
+        <file>icon_1/zidongmoshi.png</file>
+        <file>icon_1/guangzhaodu.png</file>
+        <file>icon_1/350.jfif</file>
+        <file>icon_1/1.jpg</file>
+        <file>icon_1/dapeng.png</file>
+        <file>icon_1/zhihuishu.png</file>
+        <file>icon_1/bf-icon-battery_empty.png</file>
+        <file>icon_1/bf-icon-battery_charging.png</file>
+    </qresource>
+</RCC>

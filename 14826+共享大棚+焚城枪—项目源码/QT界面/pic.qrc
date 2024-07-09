@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/icon_1/1.jpg</file>
+        <file>pic/icon_1/2.jpg</file>
+        <file>pic/icon_1/3.jpg</file>
+        <file>pic/icon_2/co2.png</file>
+        <file>pic/icon_2/guangzhaodu.png</file>
+        <file>pic/icon_2/PHzhi.png</file>
+        <file>pic/icon_2/sheshidu.png</file>
+        <file>pic/icon_2/shidu.png</file>
+        <file>pic/icon_2/turangdiandaoshuai.png</file>
+        <file>pic/icon_2/turangshidu.png</file>
+        <file>pic/icon_2/turangwendu.png</file>
+        <file>pic/icon_1/a-buguangdengxian_huaban1_huaban12.png</file>
+        <file>pic/icon_1/bf-icon-battery_empty.png</file>
+        <file>pic/icon_1/bulb12.png</file>
+        <file>pic/icon_1/chuanglian1.png</file>
+        <file>pic/icon_1/fengshan1.png</file>
+        <file>pic/icon_1/shuibeng12.png</file>
+        <file>pic/icon_1/shoudongmoshi.png</file>
+        <file>pic/icon_1/a-buguangdengxian_huaban1_huaban1.png</file>
+        <file>pic/icon_1/bf-icon-battery_charging.png</file>
+        <file>pic/icon_1/bulb1.png</file>
+        <file>pic/icon_1/chuanglian.png</file>
+        <file>pic/icon_1/fengshan.png</file>
+        <file>pic/icon_1/shuibeng1.png</file>
+        <file>pic/icon_1/zidongmoshi.png</file>
+    </qresource>
+</RCC>

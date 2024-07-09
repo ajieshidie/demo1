@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/control"
+        android:icon="@drawable/baseline_control_camera_24"
+        android:title="控制" />
+
+    <item
+        android:id="@+id/number"
+        android:icon="@drawable/baseline_format_list_numbered_24"
+        android:title="数据" />
+
+
+
+</menu>
